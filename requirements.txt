@@ -1,0 +1,5 @@
+requests
+mysql-connector-python
+matplotlib
+
+Use "pip install -r requirements.txt" to install the requirements
